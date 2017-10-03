@@ -30,6 +30,8 @@ import com.google.gson.reflect.TypeToken;
 
 import java.util.ArrayList;
 
+// this is the main activity
+
 public class MainActivity extends AppCompatActivity {
 
     Activity mActivity;

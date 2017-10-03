@@ -31,6 +31,7 @@ import com.google.gson.reflect.TypeToken;
 import java.util.ArrayList;
 
 // this is the main activity
+// this in the myNewBranch
 
 public class MainActivity extends AppCompatActivity {
 

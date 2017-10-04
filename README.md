@@ -1,4 +1,6 @@
-# smsdispatch
+## smsdispatch
 
-This app dispatch the received SMS to other telephone numbers.
+#OVERVIEW
+
+This app dispatches received SMSs to other telephone numbers.
 
